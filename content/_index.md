@@ -7,4 +7,11 @@ Hola ✌️  soy el explorer **Fernando Medina** y este es mi blog personal dond
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas de Launch X:
+
+- Aprender nuevas tecnologías y lenguajes.
+- Aplicar lo aprendido en mi vida laboral.
+- Tener oportunidades de crecimiento.
+- Poder apoyar a la genete.
+
 🚀
