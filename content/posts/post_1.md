@@ -4,7 +4,7 @@ date: 2022-04-13
 description: 'Todas las vivencias de Launch X'
 ---
 
-**El gran viaje con Launch X**
+## El gran viaje con Launch X
 
 Les quiero compartir lo que he vivido en estas semanas que llevamos viajando con Launch X.
 
